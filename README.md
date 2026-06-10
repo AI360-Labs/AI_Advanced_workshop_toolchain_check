@@ -73,16 +73,6 @@ If you are working locally, download VS Code at [code.visualstudio.com](https://
 
 ---
 
-## Step 5 — Verify Service Access
-
-### GitHub
-
-You need read access to the workshop repositories. Confirm by checking that you can open this page without being prompted to request access.
-
-- If you see a 404 or "Request access" message, reach out to the workshop organizers before the session.
-
----
-
 ### OpenRouter (LLM API access)
 
 OpenRouter provides access to a range of AI models through a single API. We will provision API keys during the workshop.
@@ -107,7 +97,7 @@ Supabase provides a hosted Postgres database with a REST API. We will use it for
 curl -o /dev/null -s -w "%{http_code}" https://supabase.com
 ```
 
-A `200` confirms your network can reach Supabase. To fully verify API connectivity, you need a project URL — create a free account to get one.
+A `200` confirms your network can reach Supabase. To fully verify API connectivity.
 
 ---
 
@@ -116,14 +106,14 @@ A `200` confirms your network can reach Supabase. To fully verify API connectivi
 Before the session, confirm the following:
 
 - [ ] You can access the workshop GitHub repository
-- [ ] You have forked/copied the repository to your own GitHub account
+- [ ] You have created your own repository on GitHub
 - [ ] You can open a Codespace (or have a working local environment)
 - [ ] Python 3.13 and uv are available in your environment
 - [ ] VS Code is available (Codespaces or local install)
 - [ ] You can reach `openrouter.ai` — ideally with a working API key
 - [ ] You can reach `supabase.com` — ideally with a project created and API key ready
 
-If anything is blocked, contact the workshop organizers ahead of time so we can help you resolve it before the session starts.
+If anything is blocked, please contact us: kontakt@ai360labs.pl
 
 ---
 
