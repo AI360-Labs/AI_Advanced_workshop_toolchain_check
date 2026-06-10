@@ -110,8 +110,8 @@ Przed sesją potwierdź, że:
 - [ ] Możesz otworzyć Codespace (lub masz działające lokalne środowisko)
 - [ ] Python 3.13 i uv są dostępne w Twoim środowisku
 - [ ] VS Code jest dostępny (Codespaces lub lokalna instalacja)
-- [ ] Możesz połączyć się z `openrouter.ai` — najlepiej z działającym kluczem API
-- [ ] Możesz połączyć się z `supabase.com` — najlepiej z utworzonym projektem i gotowym kluczem API
+- [ ] Możesz połączyć się z `openrouter.ai`
+- [ ] Możesz połączyć się z `supabase.com`
 
 Jeśli cokolwiek jest zablokowane, skontaktuj się z nami: kontakt@ai360labs.pl
 
